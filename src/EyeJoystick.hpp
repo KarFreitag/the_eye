@@ -1,6 +1,8 @@
 #ifndef EyeJoystick_hpp
 #define EyeJoystick_hpp
 
+#include <Arduino.h>
+
 class EyeJoystick {
   int xPin, yPin;
   int xMin, xMax, yMin, yMax;

@@ -1,6 +1,7 @@
 #ifndef EyeServo_hpp
 #define EyeServo_hpp
 
+#include <Arduino.h>
 #include <Servo.h>
 
 class EyeServo {
