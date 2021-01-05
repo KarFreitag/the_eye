@@ -1,6 +1,5 @@
-// Include the servo library:
-#include "EyeServo.hpp"
-#include "EyeJoystick.hpp"
+#include "EyeServo.h"
+#include "EyeJoystick.h"
 
 # define range of the servos
 int servo_start = 20;
